@@ -108,6 +108,8 @@ Cloud Storage Setup - Task 1/
 └── README.md             # Project documentation
 ```
 
+<img width="822" height="364" alt="Image" src="https://github.com/user-attachments/assets/6de72eb4-c246-48ca-8826-4891337ae55b" />
+
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
