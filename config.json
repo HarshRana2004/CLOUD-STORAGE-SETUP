@@ -1,0 +1,11 @@
+{
+  "aws": {
+    "region": "us-east-1",
+    "bucket_name": "my-s3-bucket-12345"
+  },
+  "gcs": {
+    "project_id": "your-project-id",
+    "bucket_name": "my-gcs-bucket-12345",
+    "location": "US"
+  }
+}
